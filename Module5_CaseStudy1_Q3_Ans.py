@@ -1,5 +1,4 @@
 # Print the names of the top five movies with the costliest budgets
-
 import pandas as pd
 import numpy as np
 dataset=pd.read_csv('c:\\temp\\HollywoodMovies.csv')
